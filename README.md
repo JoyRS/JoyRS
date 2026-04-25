@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Lead+%2F+Cloud+Engineer;Sistemas+distribuidos+%7C+Event-driven+%7C+AWS;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+NATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Lead+%2F+Cloud+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+NATS" alt="Typing SVG" />
 
 <br/>
 
