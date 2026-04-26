@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Estilo alineado al portafolio: tema Monokai — bg #1a1a18, acento #4ec9b0, tipo #66d9ef -->
+<!-- Monokai portafolio: #1a1a18, acento #4ec9b0, tipo #66d9ef -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4ec9b0&center=true&vCenter=true&width=620&lines=Backend+Lead+%2F+Cloud+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+NATS" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58a6ff&height=120&section=header&text=Cristhian%20Joy%20Reis%20Serrín&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,100:1e2a2e&height=120&section=header&text=Cristhian%20Joy%20Reis%20Serr%C3%ADn&fontSize=28&fontColor=4ec9b0&animation=twinkling&fontAlignY=32" width="100%" alt="header" />
 
 <br/>
 
