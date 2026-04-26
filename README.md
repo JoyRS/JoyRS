@@ -27,7 +27,7 @@ Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real**
 - 🌐 **Remoto** · Arequipa, Perú.
 
 <details>
-<summary><b>✨ Enfoque (click para expandir)</b> — <code></code></summary>
+<summary><b>✨ Enfoque (click para expandir)</b></summary>
 
 <br/>
 
