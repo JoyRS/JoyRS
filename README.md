@@ -75,19 +75,6 @@ Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real**
 
 ---
 
-### `##` 📌 Repos destacados
-
-<div align="center">
-
-| Repo | Idea |
-|:---:|:---|
-| 🧠 [**RedNeuronal-7-4**](https://github.com/JoyRS/RedNeuronal-7-4) | Python · codificación 7→4 bits, red feedforward |
-| 🧮 [**Calculadora**](https://github.com/JoyRS/Calculadora) | Práctica JS · lógica y UI |
-
-</div>
-
----
-
 ### `##` 📊 GitHub (stats) · *tema oscuro (Monokai / IDE)*
 
 <div align="center">
@@ -98,14 +85,6 @@ Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyRS&theme=dark&hide_border=true&background=1A1A18&ring=4EC9B0&fire=E6DB74&currStreakLabel=4EC9B0&sideLabels=C8C8C8&dates=75715E" alt="streak" />
 
 </div>
-
----
-
-### `##` 🎓 Formación & certificaciones
-
-- 🎓 **Ingeniería de Sistemas** — Universidad Católica de Santa María (Arequipa) · *2014 – 2019*  
-- 🌐 **CCNA** (Switching & Routing, routing básico, escalamiento, conexión de redes)  
-- 🔒 **Cisco Networking Academy** — *Introduction to Cybersecurity*
 
 ---
 
