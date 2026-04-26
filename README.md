@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,100:1e2a2e&height=120&section=header&text=Cristhian%20Joy%20Reis%20Serr%C3%ADn&fontSize=26&fontColor=4ec9b0&animation=twinkling&fontAlignY=32&fontColorDesc=c8c8c8&desc=Portafolio+IDE+Monokai+%C2%B7+Backend+%26+Cloud&descSize=12&descAlignY=56" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58a6ff&height=120&section=header&text=Cristhian%20Joy%20Reis%20Serrín&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header" />
 
 <br/>
 
