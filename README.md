@@ -20,7 +20,7 @@
 
 Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real** — microservicios, **event-driven** (NATS, WebSockets), integración **SAP**, datos (**PostgreSQL**, Redis, MongoDB, MySQL) y **AWS** (EC2, RDS, SQS, Lambda, VPC).
 
-- 🎯 **Liderazgo técnico** en plataformas ecommerce de alto tráfico (**~8K pedidos/día**, **+500K usuarios** en entornos productivos).  
+- 🎯 **Liderazgo técnico** en plataformas ecommerce de alto tráfico.  
 - 🧩 **De la complejidad a lo mantenible**: performance, resiliencia y operación 24/7.  
 - 🌐 **Remoto** · Arequipa, Perú.
 
