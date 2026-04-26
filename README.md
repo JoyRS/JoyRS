@@ -1,126 +1,72 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Lead+%2F+Cloud+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS+%C2%B7+NATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4ec9b0&center=true&vCenter=true&width=640&lines=Portafolio+IDE+en+el+navegador;React+19+%C2%B7+TypeScript+%C2%B7+Vite;Tema+Monokai+%2B+ondas+PSP+%2B+terminal" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58a6ff&height=120&section=header&text=Cristhian%20Joy%20Reis%20Serrín&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,100:1e3a5f&height=120&section=header&text=dev-joyrs&fontSize=32&fontColor=4ec9b0&animation=twinkling&fontAlignY=32&desc=Cristhian+Joy+Reis+Serr%C3%ADn+%C2%B7+Portafolio&descAlignY=55&descSize=12&fontColorDesc=c9d1d9" width="100%" alt="header" />
 
 <br/>
 
-[![Location](https://img.shields.io/badge/📍-Arequipa%2C%20Perú-24292f?style=for-the-badge)](https://github.com/JoyRS)
-[![Remote](https://img.shields.io/badge/🏠-Remote-238636?style=for-the-badge)](https://github.com/JoyRS)
-[![Focus](https://img.shields.io/badge/⚡-High%20concurrency%20%26%20scale-1f6feb?style=for-the-badge)](https://github.com/JoyRS)
+[![Stack](https://img.shields.io/badge/⚡-Vite%20%2B%20React%2019-646CFF?style=for-the-badge&logo=vite)](https://github.com/JoyRS/dev-joyrs)
+[![TS](https://img.shields.io/badge/IDE--style-1a1a18?style=for-the-badge&logo=typescript&logoColor=4ec9b0)](https://github.com/JoyRS/dev-joyrs)
+[![Themes](https://img.shields.io/badge/🎨-Monokai%20%7C%20Mariana%20%7C%20Dracula%20%7C%20Nord-58A6FF?style=for-the-badge)](https://github.com/JoyRS/dev-joyrs)
 
 </div>
 
 ---
 
-### 👋 Sobre mí
+### 🧩 Qué es este repo
 
-Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real** — microservicios, **event-driven** (NATS, WebSockets), integración **SAP**, datos (**PostgreSQL**, Redis, MongoDB, MySQL) y **AWS** (EC2, RDS, SQS, Lambda, VPC).
+**Portafolio interactivo** con estética de **editor / IDE** (barra de título, pestañas, sidebar de archivos, panel inferior tipo terminal) y **fondo con ondas al estilo PSP**. Los contenidos de CV, stack y proyectos se alimentan de archivos y datos del propio frontend; en **Proyectos** se integra la **API pública de GitHub** (con manejo de límite de tasa y fallback).
 
-- 🎯 **Liderazgo técnico** en plataformas ecommerce de alto tráfico.  
-- 🧩 **De la complejidad a lo mantenible**: performance, resiliencia y operación 24/7.  
-- 🌐 **Remoto** · Arequipa, Perú.
+- **🖥️ UI**: ventana estilo IDE, `hash` para “rutas” internas, temas conmutables (**Monokai** por defecto, **Mariana**, **Dracula**, **Nord**).  
+- **🌊 Ambiente**: canvas de ondas + paleta alineada con Monokai (`#1a1a18` · acento `#4ec9b0` · resaltado tipo código).  
+- **⚙️ Build**: [Vite](https://vitejs.dev/) 5, [React](https://react.dev/) 19, [TypeScript](https://www.typescriptlang.org/), [react-icons](https://react-icons.github.io/react-icons/), ESLint.  
+- **🔍 SEO**: `index.html` con metas, `theme-color` oscuro, JSON-LD `Person` y reemplazos de sitio vía `VITE_*` (ver `.env.example`).
 
 <details>
-<summary><b>✨ Enfoque (click para expandir)</b></summary>
+<summary><b>🗂️ Estructura (resumen)</b></summary>
 
-<br/>
-
-| | |
-|:---:|:---|
-| 🏗️ | Diseño de **sistemas distribuidos** |
-| ⚡ | **Optimización** de performance |
-| 🛡️ | Arquitecturas **resilientes** |
-| ✂️ | **Simplicidad** sobre complejidad |
+| Ruta (idea) | Rol |
+|:---|:---|
+| `src/components/ide/` · `editor/` | Ventana IDE, cuerpo del editor, vistas (perfil, experiencia, skills, proyectos, etc.) |
+| `src/components/ambient/` | Fondo ondas (PSP-style) |
+| `src/components/terminal/` | Panel tipo terminal simulada |
+| `src/config/cvFiles.ts` · `src/content/` | “Árbol” de archivos y contenido |
+| `src/hooks/` | Tema IDE, hash routing, repos de GitHub, etc. |
+| `src/lib/github/` | Llamada y tipos a la API de repositorios |
+| `src/styles/ide-themes.css` | Tokens por tema (Monokai, Mariana, Dracula, Nord) |
 
 </details>
 
 ---
 
-### 🛠️ Stack por capas
+### 🛠️ Stack (este front)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,django,nestjs,postgres,redis,mongodb,docker,kubernetes,git&perline=6" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vite&perline=6" alt="Frontend stack" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NATS-27AAEE?style=flat-square&logo=nats&logoColor=white" alt="NATS" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=222" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img href="#" src="https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Hash%20routing-%23272822?style=flat-square&logo=javascript&logoColor=f7df1e" alt="Hash routing" />
+  <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API" />
 </p>
 
----
-
-### 💼 Experiencia (resumen)
-
-| | |
-|:---|:---|
-| 🏢 | **Consultora Albatros Services Honduras** — *Backend Lead / Cloud Engineer* (Jul 2022 – actualidad) |
-| ☁️ | Microservicios, APIs **Node.js · TypeScript · NestJS**, **NATS**, WebSockets, SAP, cloud productivo |
-| 📈 | Escalabilidad y concurrencia |
-| 🔧 | integración web/móvil/SAP, **Python · Django** |
-
-*Parte del trabajo está bajo **NDA**; detalle técnico con gusto en entrevista.*
+*Tu perfil backend (Node, NestJS, NATS, AWS, etc.) sigue siendo tuyo; este repositorio es el **frente** del portafolio.*
 
 ---
 
-### 📌 Repos destacados
+### 🚀 Cómo correrlo
 
-<div align="center">
-
-| Repo | Idea |
-|:---:|:---|
-| 🧠 [**RedNeuronal-7-4**](https://github.com/JoyRS/RedNeuronal-7-4) | Python · codificación 7→4 bits, red feedforward |
-| 🧮 [**Calculadora**](https://github.com/JoyRS/Calculadora) | Práctica JS · lógica y UI |
-
-</div>
-
----
-
-### 📊 GitHub (stats)
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoyRS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyRS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoyRS&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-### 🎓 Formación & certificaciones
-
-- 🎓 **Ingeniería de Sistemas** — Universidad Católica de Santa María (Arequipa) · *2014 – 2019*  
-- 🌐 **CCNA** (Switching & Routing, routing básico, escalamiento, conexión de redes)  
-- 🔒 **Cisco Networking Academy** — *Introduction to Cybersecurity*
-
----
-
-### 📫 Contacto
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-JoyRS-181717?style=for-the-badge&logo=github)](https://github.com/JoyRS)
-[![Email](https://img.shields.io/badge/Email-Albatros-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristhian.reis@albatrosservices.com)
-[![Email](https://img.shields.io/badge/Email-Personal-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristhianjoy@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:58a6ff&height=80&section=footer" width="100%" alt="footer wave" />
-
-**Gracias por pasarte por el perfil** · *Open to interesting backend & cloud challenges.*
-
-</div>
+```bash
+git clone https://github.com/JoyRS/dev-joyrs.git
+cd dev-joyrs
+cp .env.example .env
+npm install
+npm run dev
