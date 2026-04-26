@@ -64,7 +64,7 @@ Soy **Backend Lead / Cloud Engineer**: arquitecturas que aguantan **carga real**
 |:---|:---|
 | 🏢 | **Consultora Albatros Services Honduras** — *Backend Lead / Cloud Engineer* (Jul 2022 – actualidad) |
 | ☁️ | Microservicios, APIs **Node.js · TypeScript · NestJS**, **NATS**, WebSockets, SAP, cloud productivo |
-| 📈 | Escala: **~8K pedidos/día**, **+500K usuarios** |
+| 📈 | Escalabilidad y concurrencia |
 | 🔧 | integración web/móvil/SAP, **Python · Django** |
 
 *Parte del trabajo está bajo **NDA**; detalle técnico con gusto en entrevista.*
